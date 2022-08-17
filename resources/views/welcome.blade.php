@@ -6,7 +6,7 @@
         <link rel="icon" type="image/x-icon" href="{{asset('favicon.ico')}}">
         <title>{{env('APP_NAME')}}</title>
     </head>
-    <body class="antialiased" style="background-color: #E8E8E9; width: 100vw; height: 100vh; margin: 0;">
+    <body class="antialiased" style="background-color: #E8E8E9; width: 100vw; height: 100vh; margin: 0; user-select: none;">
         <div style="
             display: flex;
             width: 100%;
