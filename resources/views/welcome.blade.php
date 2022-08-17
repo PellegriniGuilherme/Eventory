@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <link rel="icon" type="image/x-icon" href="{{asset('favicon.ico')}}">
         <title>{{env('APP_NAME')}}</title>
     </head>
     <body class="antialiased" style="background-color: #E8E8E9; width: 100vw; height: 100vh; margin: 0;">
